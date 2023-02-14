@@ -1,0 +1,11 @@
+br\com\fiap\energymeter\energymeter\EnergymeterApplication.class
+br\com\fiap\energymeter\energymeter\DTO\ConsumoDTO$ConsumoDTOBuilder.class
+br\com\fiap\energymeter\energymeter\controller\ConsumoController.class
+br\com\fiap\energymeter\energymeter\mapper\ConsumerProjection.class
+br\com\fiap\energymeter\energymeter\serviceImpl\ConsumoServiceImpl.class
+br\com\fiap\energymeter\energymeter\DTO\ConsumoDTO.class
+br\com\fiap\energymeter\energymeter\DTO\ResposeFiltroPersonal.class
+br\com\fiap\energymeter\energymeter\repository\ConsumoRepository.class
+br\com\fiap\energymeter\energymeter\DTO\ResposeFiltroPersonal$ResposeFiltroPersonalBuilder.class
+br\com\fiap\energymeter\energymeter\model\Consumo.class
+br\com\fiap\energymeter\energymeter\service\ConsumoService.class
